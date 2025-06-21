@@ -415,7 +415,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dvariancetk`][@stdlib/stats/strided/dvariancetk]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using a one-pass textbook algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanvariancetk`][@stdlib/stats/base/snanvariancetk]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/sstdevtk`][@stdlib/stats/strided/sstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using a one-pass textbook algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/svariance`][@stdlib/stats/base/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/svariance`][@stdlib/stats/strided/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/variancetk`][@stdlib/stats/base/variancetk]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array using a one-pass textbook algorithm.</span>
 
 </section>
@@ -510,7 +510,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/sstdevtk]: https://github.com/stdlib-js/stats-strided-sstdevtk
 
-[@stdlib/stats/base/svariance]: https://github.com/stdlib-js/stats-base-svariance
+[@stdlib/stats/strided/svariance]: https://github.com/stdlib-js/stats-strided-svariance
 
 [@stdlib/stats/base/variancetk]: https://github.com/stdlib-js/stats-base-variancetk
 
